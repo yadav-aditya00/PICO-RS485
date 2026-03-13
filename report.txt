@@ -1,0 +1,1 @@
+Update symbol C1 from 'Device:C' to 'Device:C': OK
